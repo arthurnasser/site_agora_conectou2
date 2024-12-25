@@ -1,0 +1,1678 @@
+/* Normal desktop :1200px. */
+@media (min-width: 1200px) and (max-width: 1600px) {
+  nav.header-menu > ul > li {
+    padding: 35px 0 35px 24px;
+  }
+
+  .digi-m-logo img {
+    width: 100%;
+  }
+
+  .why-choose-box-left {
+    flex: 57%;
+  }
+
+  section.contact-section .digi-m-section-title h1 {
+    font-size: 36px;
+  }
+
+  section.newsletter-section .digi-m-section-title h1 {
+    font-size: 34px;
+  }
+
+  .banner-desc p {
+    width: 100%;
+  }
+
+  .banner-shape2 {
+    top: 7.2rem;
+    left: 4.2rem;
+  }
+
+  .banner-shape3 {
+    left: 3rem;
+  }
+
+  .banner-shape4 {
+    left: 3rem;
+  }
+
+  .category-box-content {
+    width: 100%;
+  }
+
+  .footer-shape7 {
+    display: none;
+  }
+
+  /* Homepage Two */
+
+  .category-single-box.style1 {
+    padding: 42px 32px;
+  }
+
+  .process-desc p {
+    width: 100%;
+  }
+
+  .rely-box-icon {
+    flex: 19%;
+  }
+
+  /* Homepage Three */
+
+  /* Homepage Four */
+
+  /* Blog Inner Page */
+
+  /* About Inner Page */
+
+  /* Blog Details Inner Page */
+
+  /* Homepage Three */
+
+  /* Homepage Four */
+
+  .about-details-thumb img {
+    margin-left: -20rem;
+  }
+
+  /* Portfolio Details Inner Page */
+
+  .portfolio-related-title h1 {
+    font-size: 32px;
+  }
+
+  /* Contact Inner Page */
+}
+
+/* Normal desktop :992px. */
+@media (min-width: 992px) and (max-width: 1199px) {
+  /*Homepage One
+    ===================*/
+
+  nav.header-menu > ul > li {
+    padding: 35px 0 35px 10px;
+  }
+
+  .sticky nav.header-menu ul li {
+    padding: 24px 0 24px 14px;
+  }
+
+  nav.header-menu > ul > li:last-child {
+    padding: 0 0 0 10px;
+  }
+
+  .digi-m-logo img {
+    width: 100%;
+  }
+
+  .banner-title h1 {
+    font-size: 50px;
+  }
+
+  .banner-desc p {
+    width: 100%;
+  }
+
+  .banner-thumb img {
+    width: 100%;
+  }
+
+  section.revinue-section .digi-m-section-title h1 {
+    width: 90%;
+  }
+
+  span.slick-next {
+    left: 44%;
+    top: inherit;
+    transform: translateY(-0%);
+    text-align: center;
+    bottom: 2rem;
+    margin: 0;
+  }
+
+  span.slick-prev {
+    top: inherit;
+    transform: translateY(-0%);
+    right: 44%;
+    text-align: center;
+    bottom: 2rem;
+    margin: 0;
+  }
+
+  .why-choose-box-left {
+    flex: 94%;
+  }
+
+  .why-choose-us-section .digi-m-section-title h1 {
+    font-size: 32px;
+    line-height: 38px;
+  }
+
+  .testimonial-thumb img {
+    width: 100%;
+  }
+
+  section.testimonial-section .digi-m-section-title h1 {
+    width: 100%;
+  }
+
+  .contact-thumb img {
+    width: 100%;
+  }
+
+  .latest-news-post-by h6,
+  .latest-news-comment h6 {
+    font-size: 14px;
+  }
+
+  .latest-news-content-top {
+    gap: 6px;
+  }
+
+  .latest-news-box-content {
+    padding: 20px 12px;
+  }
+
+  .latest-news-title a {
+    font-size: 18px;
+  }
+
+  section.newsletter-section .digi-m-section-title h1 {
+    font-size: 26px;
+  }
+
+  .footer-shape7 {
+    display: none;
+  }
+
+  /* Homepage Two  */
+
+  .banner-bg.style2 .banner-thumb img {
+    border-radius: 135px;
+  }
+
+  .about-thumb img {
+    width: 100%;
+  }
+
+  .digi-m-section-title.style2 h1 {
+    font-size: 50px;
+    line-height: 60px;
+  }
+
+  .process-box-title h3 {
+    font-size: 20px;
+  }
+
+  .reward-area img {
+    width: 60%;
+  }
+
+  .reward-shape3 img {
+    width: 25%;
+  }
+
+  .rely-desc p {
+    width: 60%;
+  }
+
+  .rely-box-icon {
+    flex: 23%;
+  }
+
+  /* Homepage Three */
+
+  /* Homepage Four */
+
+  /* Shop Details */
+
+  .product-box-title h6 {
+    font-size: 17px;
+  }
+
+  /* Service  */
+  .reward-shape3 {
+    top: 13%;
+  }
+
+  /* Service Details Inner Page */
+
+  section.services-details__content .feature-list .single-item .title {
+    font-size: 13px;
+  }
+
+  /* Blog Details Inner Page */
+
+  .blog-details-title h1 {
+    font-size: 30px;
+  }
+
+  .related-blog-single-box .blog-box-title a {
+    font-size: 16px;
+  }
+
+  .form-condition p {
+    margin: 0;
+    display: inherit;
+  }
+
+  .contact-title h1 {
+    font-size: 40px;
+  }
+
+  .recent-comment-content p {
+    font-size: 13px;
+  }
+
+  .post-date h5 {
+    font-size: 13px;
+  }
+
+  .recent-post-icon {
+    margin-right: 10px;
+  }
+
+  .post-title h5 {
+    font-size: 12px;
+    line-height: 20px;
+  }
+
+  .blog-details-form-btn {
+    margin-bottom: 30px;
+  }
+
+  /* Blog Inner Page */
+
+  .blog-inner-content {
+    padding: 20px;
+  }
+
+  .blog-inner-box-title h3 {
+    font-size: 16px;
+  }
+
+  .blog-inner-box-desc p {
+    font-size: 13px;
+  }
+
+  /* Contact Inner Page */
+
+  /* Faq Inner Page */
+
+  .accordion-title {
+    font-size: 15px;
+  }
+
+  /* Course Details Inner Page */
+
+  .tabs li a {
+    margin-left: 0px;
+  }
+}
+
+/* Tablet desktop :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+  header.header-manu-section {
+    display: none;
+  }
+
+  .sticky {
+    position: relative !important;
+  }
+
+  section.banner-section {
+    height: 72rem;
+  }
+
+  .banner-title h1 {
+    width: 80%;
+  }
+
+  .banner-thumb img {
+    margin-top: 3rem;
+  }
+
+  .service-box {
+    margin-top: 0;
+  }
+
+  .service-box-title h4 {
+    font-size: 18px;
+  }
+
+  section.revinue-section .digi-m-section-title h1 {
+    width: 66%;
+  }
+
+  .revinue-thumb {
+    margin-bottom: 2rem;
+  }
+
+  .why-choose-box-left {
+    flex: 28%;
+  }
+
+  section.why-choose-us-section .digi-m-btn {
+    margin-bottom: 2rem;
+  }
+
+  section.testimonial-section .digi-m-section-title h1 {
+    width: 74%;
+  }
+
+  .testimonial-desc p {
+    width: 80%;
+  }
+
+  .testimonial-thumb {
+    margin-top: 2rem;
+  }
+
+  section.testimonial-section.style2 {
+    padding: 100px 0 200px;
+    margin-bottom: -115px;
+  }
+
+  section.team-member-section.style2 {
+    padding: 100px 0 270px;
+    margin-bottom: -115px;
+  }
+
+  .contact-thumb {
+    margin-bottom: 2rem;
+  }
+
+  section.latest-news-section {
+    padding: 120px 0 256px;
+    margin-bottom: -116px;
+  }
+
+  .newsletter-content {
+    margin-bottom: 2rem;
+  }
+
+  section.newsletter-section .digi-m-section-title h1 {
+    font-size: 34px;
+  }
+
+  section.newsletter-section {
+    margin-bottom: -116px;
+  }
+
+  footer.footer-section {
+    padding: 236px 0 100px;
+  }
+
+  .footer-title h3 {
+    margin-top: 1rem;
+  }
+
+  .footer-shape5 {
+    bottom: 4rem;
+  }
+
+  /* Banner Inner Page */
+
+  section.banner-inner-section {
+    height: 430px;
+  }
+
+  /* About Inner Page */
+
+  section.about-section.style-5 .about-thumb img {
+    margin-left: 0;
+  }
+
+  /* Checkout Inner Page  */
+
+  .shop-product-section {
+    padding: 100px 0 200px;
+    margin-bottom: -115px;
+  }
+
+  /* Faq Inner Page  */
+
+  .faq-inner-section {
+    padding: 120px 0 220px;
+    margin-bottom: -115px;
+  }
+
+  /* Faq Inner Page  */
+
+  section.blog-details {
+    padding: 120px 0 220px;
+    margin-bottom: -115px;
+  }
+
+  /* Experience Inner Page  */
+
+  .experience-section.style2 {
+    padding: 120px 0 220px;
+    margin-bottom: -115px;
+  }
+
+  /* Service Details Inner Page  */
+
+  section.services-details {
+    padding: 120px 0 220px;
+    margin-bottom: -115px;
+  }
+
+  /* Product Inner Page  */
+
+  section.product-section {
+    padding: 120px 0 220px;
+    margin-bottom: -115px;
+  }
+
+  /* Shop Details Inner Page  */
+
+  section.shop-related {
+    padding: 120px 0 220px;
+    margin-bottom: -115px;
+  }
+
+  /* Cart Inner Page */
+
+  .cart-section {
+    padding: 120px 0 205px;
+    margin-bottom: -115px;
+  }
+
+  /* Blog Details Inner Page */
+
+  .blog-detials-single-box h4 {
+    font-size: 18px;
+  }
+
+  .related-blog-single-box {
+    margin-bottom: 30px;
+  }
+
+  .blog-deteils-post-title h1 {
+    font-size: 24px;
+  }
+
+  .blog-details-form-btn {
+    margin-bottom: 30px;
+  }
+
+  /* Why Choose Us */
+
+  section.why-choose-us-section {
+    padding: 120px 0 215px;
+    position: relative;
+    margin-bottom: -115px;
+  }
+
+  /* faq inner Page */
+
+  .accordion-title {
+    font-size: 17px;
+  }
+
+  /* Blog Inner Page */
+
+  .blog-inner-content {
+    padding: 20px;
+  }
+
+  .blog-inner-box-title h3 {
+    font-size: 20px;
+  }
+
+  .blog-inner-box-desc p {
+    font-size: 14px;
+  }
+
+  .blog-inner-single-box {
+    margin-bottom: 110px;
+  }
+
+  .blog-btn {
+    margin-top: -0.8em;
+  }
+
+  /* Course Inner Page */
+
+  .course-box-title a {
+    font-size: 20px;
+  }
+
+  /* Contact Inner Page */
+
+  .contact-inner-shape2 {
+    right: -1rem;
+  }
+
+  /* Portfolio Details Inner Page */
+
+  .portfolio-info-thumb img {
+    margin-top: 2rem;
+  }
+
+  .portfolio-related-thumb {
+    margin-bottom: 30px;
+  }
+
+  /* Shop Details Innner Page */
+
+  .thumb-tabs {
+    margin-bottom: 30px;
+  }
+
+  /* Pricing Inner Page */
+
+  section.pricing-section {
+    padding: 120px 0 205px;
+    margin-bottom: -115px;
+  }
+}
+
+/* Large Mobile :600px. */
+@media only screen and (min-width: 600px) and (max-width: 767px) {
+  header.header-manu-section {
+    display: none;
+  }
+
+  .sticky {
+    position: relative !important;
+  }
+
+  .banner-bg {
+    height: 64rem;
+  }
+
+  .banner-title h1 {
+    font-size: 38px;
+    line-height: 52px;
+    width: 72%;
+    height: 100px;
+  }
+
+  .banner-desc p {
+    width: 80%;
+  }
+
+  .banner-thumb img {
+    margin-top: 2rem;
+    width: 100%;
+  }
+
+  .service-box {
+    margin-top: 0px;
+  }
+
+  .digi-m-section-title h1 {
+    font-size: 36px;
+  }
+
+  .why-choose-box-left {
+    flex: 64%;
+  }
+
+  .why-choose-us-content {
+    margin-bottom: 2rem;
+  }
+
+  .testimonial-thumb {
+    margin-top: 2rem;
+  }
+
+  .testimonial-thumb img {
+    width: 100%;
+  }
+
+  .testimonial-desc p {
+    width: 87%;
+  }
+
+  section.testimonial-section.style2 {
+    padding: 100px 0 190px;
+    margin-bottom: -102px;
+  }
+
+  section.team-member-section.style2 {
+    padding: 100px 0 260px;
+    margin-bottom: -102px;
+  }
+
+  .contact-thumb {
+    margin-bottom: 2rem;
+  }
+
+  section.latest-news-section {
+    padding: 120px 0 235px;
+    margin-bottom: -125px;
+  }
+
+  section.newsletter-section {
+    margin-bottom: -125px;
+  }
+
+  section.newsletter-section {
+    padding: 50px;
+  }
+
+  /* Why Choose Us Inner Page */
+
+  section.why-choose-us-section {
+    margin-bottom: -102px;
+  }
+
+  /* Pricing Inner Page */
+  section.pricing-section {
+    margin-bottom: -105px;
+  }
+
+  .footer-bottom-desc p {
+    margin: 18px 0;
+  }
+
+  .footer-bottom-link {
+    text-align: left;
+  }
+
+  .footer-bottom-link ul li {
+    margin: 0 24px 24px 0;
+  }
+
+  /* Checkout Inner Page
+  ===================*/
+  .shop-product-section {
+    padding: 100px 0 200px;
+    margin-bottom: -105px;
+  }
+
+  /* faq Inner Page */
+
+  .faq-inner-section {
+    padding: 120px 0 220px;
+    margin-bottom: -105px;
+  }
+
+  /* blog details Inner Page */
+
+  section.blog-details {
+    padding: 120px 0 220px;
+    margin-bottom: -105px;
+  }
+
+  /* Experience Inner Page */
+
+  .experience-section.style2 {
+    padding: 120px 0 220px;
+    margin-bottom: -105px;
+  }
+
+  /* servcie details Inner Page */
+
+  section.services-details {
+    padding: 120px 0 220px;
+    margin-bottom: -105px;
+  }
+
+  /* Shop Details Inner Page */
+
+  section.shop-related {
+    padding: 120px 0 220px;
+    margin-bottom: -105px;
+  }
+
+  /* Product Inner Page */
+
+  section.product-section {
+    padding: 120px 0 220px;
+    margin-bottom: -105px;
+  }
+
+  /* Cart Inner Page */
+
+  .cart-section {
+    margin-bottom: -102px;
+  }
+
+  /* Banner Inner Page */
+
+  section.banner-inner-section {
+    height: 21rem;
+  }
+
+  /* Testimonial Inner Page */
+
+  .banner-inner-title h1 {
+    font-size: 60px;
+  }
+
+  /* About Inner Page */
+
+  section.about-section.style-5 .about-thumb img {
+    margin-left: 0;
+  }
+
+  /* Blog Details Inner Page */
+
+  .related-blog-single-box {
+    margin-bottom: 30px;
+  }
+
+  .blog-deteils-post-title h1 {
+    font-size: 22px;
+  }
+
+  .blog-details-form-btn {
+    margin-bottom: 30px;
+  }
+
+  .form-condition p {
+    display: inherit;
+  }
+
+  .recent-comment-content p {
+    font-size: 15px;
+  }
+
+  /* Blog Inner Page */
+
+  .blog-inner-single-box {
+    margin-bottom: 110px;
+  }
+
+  .blog-btn {
+    margin-top: -0.8em;
+  }
+
+  /* Course Details Inner Page */
+
+  .tabs li a {
+    margin-left: 0px;
+  }
+
+  .course-dtls-section .tabs li a {
+    font-size: 18px;
+    width: 118px;
+  }
+
+  /* Faq Inner Page */
+
+  .accordion-title {
+    font-size: 15px;
+  }
+
+  /* Portfolio Details Inner Page */
+
+  .portfolio-info-thumb img {
+    margin-top: 2rem;
+  }
+
+  .portfolio-info-title h1 {
+    font-size: 28px;
+  }
+
+  .portfolio-related-thumb {
+    margin-top: 30px;
+  }
+}
+
+/* small mobile :480px. */
+@media only screen and (min-width: 480px) and (max-width: 599px) {
+  header.header-manu-section {
+    display: none;
+  }
+
+  .sticky {
+    position: relative !important;
+  }
+
+  .banner-title h1 {
+    font-size: 33px;
+    line-height: 40px;
+    width: 72%;
+    height: 90px;
+  }
+
+  .service-box {
+    margin-top: 0;
+  }
+
+  .revinue-thumb {
+    margin-bottom: 2rem;
+    width: 100%;
+  }
+
+  .banner-desc p {
+    width: 86%;
+  }
+
+  section.revinue-section .digi-m-section-title h1 {
+    width: 100%;
+  }
+
+  .why-choose-us-content {
+    margin-bottom: 2rem;
+  }
+
+  .why-choose-inner {
+    width: 100%;
+  }
+
+  .why-choose-box-left {
+    flex: 54%;
+  }
+
+  .experience-thumb {
+    margin-bottom: 2rem;
+  }
+
+  section.testimonial-section .digi-m-section-title h1 {
+    width: 100%;
+  }
+
+  section.testimonial-section.style2 {
+    margin-bottom: -102px;
+  }
+
+  section.team-member-section.style2 {
+    margin-bottom: -102px;
+  }
+
+  .contact-thumb img {
+    width: 100%;
+    margin-bottom: 2rem;
+  }
+
+  section.latest-news-section {
+    margin-bottom: -105px;
+  }
+
+  .latest-news-section .digi-m-section-title h1 {
+    font-size: 34px;
+  }
+
+  section.newsletter-section {
+    padding: 45px 30px;
+    margin-bottom: -100px;
+  }
+
+  section.newsletter-section .digi-m-section-title h1 {
+    font-size: 22px;
+  }
+
+  .newsletter-content {
+    margin-bottom: 2rem;
+  }
+
+  .footer-bottom-desc p {
+    margin: 18px 0;
+  }
+
+  .footer-bottom-link {
+    text-align: left;
+  }
+
+  .footer-bottom-link ul li {
+    margin: 0 24px 24px 0;
+  }
+
+  .testimonial-desc p {
+    width: 80%;
+  }
+
+  .blog-desc p {
+    width: 85%;
+  }
+
+  .testimonial-thumb img {
+    width: 100%;
+    margin-top: 1rem;
+  }
+
+  .about-thumb img {
+    margin-left: 0;
+    width: 100%;
+    margin-bottom: 30px;
+  }
+
+  .footer-title h3 {
+    margin-top: 1rem;
+  }
+
+  .footer-shape7 {
+    display: none;
+  }
+
+  /* Banner Inner Page */
+  section.banner-inner-section {
+    height: 16.8rem;
+  }
+
+  /* Cart Inner Page */
+
+  .cart-section {
+    margin-bottom: -102px;
+  }
+
+  /* Why Choose Us Inner Page */
+
+  section.why-choose-us-section {
+    margin-bottom: -102px;
+  }
+
+  /* Service Details Inner Page */
+
+  sectionsection.services-details h2 {
+    font-size: 34px;
+  }
+
+  /* Checkout Inner Page
+  ===================*/
+  .shop-product-section {
+    padding: 100px 0 200px;
+    margin-bottom: -105px;
+  }
+
+  /* Checkout Inner Page
+  ===================*/
+  .faq-inner-section {
+    padding: 120px 0 220px;
+    margin-bottom: -105px;
+  }
+
+  /* Blog Details Inner Page
+  ===================*/
+  section.blog-details {
+    padding: 120px 0 220px;
+    margin-bottom: -105px;
+  }
+
+  /* Checkout Inner Page
+  ===================*/
+  .experience-section.style2 {
+    padding: 120px 0 220px;
+    margin-bottom: -105px;
+  }
+
+  /* Service Details Inner Page
+  ===================*/
+  section.services-details {
+    padding: 120px 0 220px;
+    margin-bottom: -105px;
+  }
+
+  /* Shop Details Inner Page
+  ===================*/
+  section.shop-related {
+    padding: 120px 0 220px;
+    margin-bottom: -105px;
+  }
+
+  /* Product Inner Page
+  ===================*/
+  section.product-section {
+    padding: 120px 0 220px;
+    margin-bottom: -105px;
+  }
+
+  /* Testimonial Inner Page */
+
+  .banner-inner-title h1 {
+    font-size: 54px;
+  }
+
+  /* About Inner Page */
+
+  section.about-section.style-5 .about-thumb img {
+    margin-left: 0;
+  }
+
+  /* Blog Details Inner Page */
+
+  .related-blog-single-box {
+    margin-bottom: 30px;
+  }
+
+  .blog-deteils-content-top {
+    gap: 3px;
+  }
+
+  .blog-deteils-content-top h6 {
+    font-size: 14px;
+  }
+
+  .blog-deteils-post-title h1 {
+    font-size: 22px;
+  }
+
+  .blog-details-form-btn {
+    margin-bottom: 30px;
+  }
+
+  .blog-details-title h1 {
+    font-size: 32px;
+    line-height: 42px;
+  }
+
+  .blog-details-box {
+    flex-direction: column;
+  }
+
+  .form-condition p {
+    display: inherit;
+  }
+
+  /* Blog Inner Page */
+
+  .blog-inner-single-box {
+    margin-bottom: 110px;
+  }
+
+  .blog-btn {
+    margin-top: -0.8em;
+  }
+
+  /* Faq Inner Page */
+
+  .accordion-title {
+    font-size: 15px;
+  }
+
+  /* Portfolio Details Inner Page */
+
+  .portfolio-info-thumb img {
+    margin-top: 2rem;
+  }
+
+  .portfolio-info {
+    padding: 38px 30px;
+  }
+
+  .portfolio-info-title h1 {
+    font-size: 28px;
+  }
+
+  .portfolio-strategy {
+    padding: 30px 30px;
+  }
+
+  .portfolio-strategy-title h1 {
+    font-size: 28px;
+  }
+
+  .portfolio-related-thumb {
+    margin-top: 30px;
+  }
+
+  /* Pricing Inner Page */
+
+  section.pricing-section {
+    margin-bottom: -102px;
+  }
+
+  /* Shop Details Inner Page */
+
+  .shop-details-title h2 {
+    font-size: 26px;
+    margin-top: 30px;
+  }
+
+  .info-tab-btn button {
+    padding: 14px 16px;
+  }
+
+  .profile-name {
+    gap: 30px;
+  }
+}
+
+/* small mobile :320px. */
+@media only screen and (min-width: 320px) and (max-width: 479px) {
+  header.header-manu-section {
+    display: none;
+  }
+
+  .sticky {
+    position: relative !important;
+  }
+
+  section.banner-section {
+    height: 56rem;
+  }
+
+  .banner-title h1 {
+    font-size: 28px;
+    line-height: 38px;
+    width: 90%;
+    height: 76px;
+  }
+
+  .banner-thumb img {
+    width: 100%;
+  }
+
+  .service-box {
+    margin-top: 0;
+  }
+
+  .revinue-thumb img {
+    width: 100%;
+    margin-bottom: 2rem;
+  }
+
+  span.slick-next {
+    margin: 50px 0 0 10px;
+  }
+
+  span.slick-prev {
+    margin: 50px 10px 0 0px;
+  }
+
+  .banner-desc p {
+    width: 100%;
+  }
+
+  section.revinue-section .digi-m-section-title h1 {
+    width: 100%;
+    font-size: 28px;
+  }
+
+  .why-choose-us-content {
+    margin-bottom: 2rem;
+  }
+
+  .why-choose-inner {
+    width: 100%;
+    flex-direction: column;
+  }
+
+  .experience-thumb {
+    margin-bottom: 2rem;
+  }
+
+  section.testimonial-section .digi-m-section-title h1 {
+    width: 100%;
+    font-size: 26px;
+  }
+
+  section.testimonial-section .slick-dots {
+    bottom: -2.3rem;
+    right: 5.5rem;
+  }
+
+  .testimonial-thumb img {
+    width: 100%;
+    margin-top: 6rem;
+  }
+
+  .testimonial-desc p {
+    width: 100%;
+  }
+
+  section.testimonial-section.style2 {
+    margin-bottom: -108px;
+  }
+
+  section.team-member-section.style2 {
+    margin-bottom: -128px;
+  }
+
+  .slick-initialized .slick-slide {
+    display: block;
+    text-align: left;
+    margin: auto;
+  }
+
+  .digi-m-section-title h1 {
+    font-size: 28px;
+  }
+
+  .contact-thumb img {
+    width: 100%;
+    margin-bottom: 2rem;
+  }
+
+  .contact-content {
+    padding: 30px;
+  }
+
+  .latest-news-section .digi-m-section-title h1 {
+    color: #fff;
+    font-size: 30px;
+  }
+
+  .latest-news-box-content {
+    padding: 28px 10px;
+  }
+
+  .latest-news-content-top {
+    gap: 6px;
+  }
+
+  .latest-news-post-by h6,
+  .darkmode .latest-news-comment h6 {
+    font-size: 14px;
+  }
+
+  .latest-news-title a {
+    font-size: 18px;
+  }
+
+  section.latest-news-section {
+    margin-bottom: -108px;
+  }
+
+  section.newsletter-section {
+    padding: 20px;
+    margin-bottom: -112px;
+  }
+
+  section.newsletter-section .digi-m-section-title h1 {
+    font-size: 22px;
+    line-height: 32px;
+    width: 80%;
+  }
+
+  .newsletter-content {
+    margin-bottom: 1rem;
+  }
+
+  .newsletter-form .digi-m-btn {
+    position: relative;
+    right: inherit;
+    bottom: -1rem;
+    transform: translatey(0%);
+    top: inherit;
+    padding-bottom: 1rem;
+  }
+
+  .footer-bottom-desc p {
+    margin: 18px 0;
+  }
+
+  .footer-bottom-link {
+    text-align: left;
+  }
+
+  .footer-bottom-link ul li {
+    margin: 0 24px 24px 0;
+  }
+
+  .footer-title h3 {
+    margin-top: 1rem;
+  }
+
+  .footer-shape7 {
+    display: none;
+  }
+
+  /*Pricing
+    ===================*/
+
+  section.pricing-section {
+    margin-bottom: -108px;
+  }
+
+  section.why-choose-us-section {
+    margin-bottom: -108px;
+  }
+
+  /* Cart Inner Page */
+
+  .cart-section {
+    margin-bottom: -108px;
+  }
+
+  /* Checkout Inner Page
+  ===================*/
+  .shop-product-section {
+    padding: 100px 0 200px;
+    margin-bottom: -110px;
+  }
+
+  /* Faq Inner Page
+  ===================*/
+  .faq-inner-section {
+    padding: 120px 0 220px;
+    margin-bottom: -110px;
+  }
+
+  /* Blog Details Inner Page
+  ===================*/
+  section.blog-details {
+    padding: 120px 0 220px;
+    margin-bottom: -110px;
+  }
+
+  /* Experience Inner Page
+  ===================*/
+  .experience-section.style2 {
+    padding: 120px 0 220px;
+    margin-bottom: -110px;
+  }
+
+  /* Shop Details Inner Page
+  ===================*/
+  section.shop-related {
+    padding: 120px 0 220px;
+    margin-bottom: -110px;
+  }
+
+  /* Service Details Inner Page
+  ===================*/
+  section.services-details {
+    padding: 120px 0 220px;
+    margin-bottom: -110px;
+  }
+
+  /* Product Inner Page
+  ===================*/
+  section.product-section {
+    padding: 120px 0 220px;
+    margin-bottom: -110px;
+  }
+
+  /* Banner Inner Page */
+
+  section.banner-inner-section {
+    height: 11rem;
+  }
+
+  /* CArt Inner Page */
+
+  .cart-product-mobile-thumb {
+    max-width: 100px;
+    max-height: 100px;
+  }
+
+  .product-quantity-count input {
+    margin: 0;
+    width: 100%;
+  }
+
+  /* Quick View  */
+
+  .color-value ul li {
+    margin: 0;
+  }
+
+  .metarial-value ul li {
+    display: block;
+  }
+
+  .quantity {
+    margin-bottom: 20px;
+  }
+
+  /* Shop Inner Page */
+
+  .banner-inner-title h1 {
+    font-size: 58px;
+  }
+
+  /* About Inner Page */
+
+  section.about-section.style-5 .about-thumb img {
+    margin-left: 0;
+  }
+
+  .testimonial-box {
+    padding: 40px 32px 34px;
+  }
+
+  /* Blog Details Inner Page */
+
+  .related-blog-single-box {
+    margin-bottom: 30px;
+  }
+
+  .blog-details-form-btn {
+    margin-bottom: 30px;
+  }
+
+  .blog-deteils-content-top {
+    align-items: first baseline;
+    gap: 0;
+    flex-direction: column;
+  }
+
+  .blog-deteils-post-title h1 {
+    font-size: 17px;
+  }
+
+  .recent-post-icon {
+    margin-right: 10px;
+  }
+
+  .post-title h5 {
+    font-size: 12px;
+  }
+
+  .blog-details-comments-item {
+    flex-direction: column;
+  }
+
+  .blog-details-title h1 {
+    font-size: 26px;
+    line-height: 34px;
+  }
+
+  .blog-details-social {
+    flex-direction: column;
+  }
+
+  .blog-details-box {
+    flex-direction: column;
+  }
+
+  .blog-content {
+    padding: 30px;
+  }
+
+  .related-blog-single-box .blog-box-title a {
+    font-size: 16px;
+  }
+
+  .blog-box-footer {
+    gap: 2px;
+  }
+
+  .comment-reply button {
+    top: 34px;
+  }
+
+  .blog-details-form-bottom {
+    gap: 20px;
+    flex-direction: column;
+  }
+
+  .form-condition p {
+    display: inherit;
+  }
+
+  .post-date h5 {
+    font-size: 13px;
+  }
+
+  .recent-comment-content p {
+    font-size: 13px;
+  }
+
+  .contact-title h1 {
+    font-size: 40px;
+  }
+
+  /* Blog Inner Page */
+
+  .blog-inner-content {
+    padding: 10px;
+  }
+
+  .blog-inner-box-title h3 {
+    font-size: 18px;
+  }
+
+  .blog-inner-box-desc p {
+    font-size: 14px;
+  }
+
+  .blog-inner-single-box {
+    margin-bottom: 110px;
+  }
+
+  .blog-btn {
+    margin-top: -0.8em;
+  }
+
+  /* Cart Inner Page */
+
+  .banner-inner-title h1 {
+    font-size: 40px;
+  }
+
+  .area-title.bdr h2 {
+    font-size: 35px;
+  }
+
+  .c-img img {
+    width: 60px;
+  }
+
+  .table > :not(caption) > * > * {
+    padding: 0.2rem 0.2rem;
+  }
+
+  .c-price {
+    font-size: 10px;
+  }
+
+  .c-qty span {
+    height: 28px;
+    line-height: 28px;
+    width: 20px;
+  }
+
+  .table.table-bordered tr {
+    font-size: 10px;
+    line-height: 20px;
+  }
+
+  .c-name span {
+    font-size: 7px;
+    line-height: 18px;
+  }
+
+  .button.c_button {
+    font-size: 16px;
+    padding: 10px 20px;
+  }
+
+  /* Contact Inner Page */
+
+  .form-top {
+    gap: 20px;
+    flex-direction: column;
+  }
+
+  .contact-inner-item {
+    width: 84%;
+  }
+
+  /* Faq Inner Page */
+
+  .accordion-title {
+    font-size: 16px;
+  }
+
+  /* Portfolio Details Inner Page */
+
+  .portfolio-info-thumb img {
+    margin-top: 2rem;
+  }
+
+  .banner-inner-title h1 {
+    font-size: 34px;
+    margin-bottom: -25px;
+  }
+
+  .banner-inner-link a {
+    font-size: 18px;
+  }
+
+  .portfolio-info {
+    padding: 28px 20px;
+  }
+
+  .portfolio-info-title h1 {
+    font-size: 18px;
+  }
+
+  .portfolio-info-details h6 {
+    font-size: 16px;
+  }
+
+  .portfolio-info-details span {
+    font-size: 13px;
+  }
+
+  .portfolio-info-share ul li {
+    margin: 0 0px;
+  }
+
+  .portfolio-strategy {
+    padding: 30px 20px;
+  }
+
+  .portfolio-strategy-title h1 {
+    font-size: 22px;
+  }
+
+  .portfolio-strategy-desc p {
+    font-size: 14px;
+  }
+
+  .portfolio-related-title h1 {
+    font-size: 24px;
+  }
+
+  .portfolio-related-thumb {
+    margin-top: 30px;
+  }
+
+  /* Pricing Inner Page */
+
+  .pricing-inner-box-bottom {
+    padding: 22px;
+  }
+
+  /* Shop Details Inner Page */
+
+  .shop-details-title h2 {
+    font-size: 26px;
+    margin-top: 30px;
+  }
+
+  .info-tab-btn button {
+    padding: 10px;
+    margin-right: 10px;
+    margin-bottom: 20px;
+  }
+
+  .shop-review {
+    flex-direction: column;
+  }
+
+  .profile-name {
+    gap: 30px;
+  }
+
+  td.table_title {
+    width: 144px;
+    padding: 0 20px;
+  }
+
+  .shop-related-title h2 {
+    font-size: 30px;
+    margin-bottom: 30px;
+  }
+}
